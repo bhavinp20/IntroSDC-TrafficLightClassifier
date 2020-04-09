@@ -9,7 +9,7 @@ With the knowledge of computer vision techniques, build a classifier for images 
 
 ![](images/all_lights.png)
 
-### Classification Steps
+#### Classification Steps
 
 You'll pre-process traffic light images, extract features that will help distinguish the different types of images, and use those features to classify the traffic light images into three categories: red, yellow, or green. The tasks will be broken down into a few sections:
 
@@ -28,13 +28,13 @@ You'll pre-process traffic light images, extract features that will help disting
 **5. Evaluate your model:** To pass this project, your classifier must be >90% accurate and never classify any red lights as green; it's likely that you'll need to improve the accuracy of your classifier by changing existing features or adding new features. I'd also encourage you to try to get as close to 100% accuracy as possible!
 
 
-### Helper functions and testing
+#### Helper functions and testing
 
 Also included are some additional Python files: `helpers.py` and `test_functions.py`
 
 These provide helper functions (that load in data) and test functions that will let you test your code as you go! You do not need to change these files, but you may add to them if you want. It is especially encouraged to look at the test functions and see how they evaluate your code.
 
-### Criteria
+#### Criteria
 
 1. **Greater than 90% accuracy**
 2. **Never classify red lights as green**
